@@ -13,3 +13,24 @@ Islamiyat
 Pak Studies
 Physics
 Tarjama tul Quran
+
+
+cout<<"1st Sem Subjects:";
+
+Calculus
+Computer Programming
+Islamiyat
+Applied Physics
+Information Technology Skills
+Enviornment, Helth & Science
+
+
+cout<<"2nd Sem Subjects:";
+
+Object Oriented Programming
+Functional English
+Software Development Life Cycle
+Software Configuration Management
+Discrete Structures
+Statistics
+Holy Quran
